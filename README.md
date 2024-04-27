@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leeshirn" alt="leeshirn" /></a> </p>
 
-- 🔭 I’m currently working on [Habit Tracker](https://github.com/Leeshirn/H-Track/Habit-tracker)
+- 🔭 I’m currently working on [Habit Tracker](https://github.com/Leeshirn/H-Track/)
 
 - 🌱 I’m currently learning **python, django, php, javascript,html,css,**
 
