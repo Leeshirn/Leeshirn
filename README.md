@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Habit Tracker](https://github.com/Leeshirn/H-Track/)
 
-- 🌱 I’m currently learning **python, django, php, javascript,html,css,**
+- 🌱 I’m currently learning **python, django, javascript,html,css,**
 
 - 💬 Ask me about **django,javascript and python**
 
@@ -24,6 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leeshirn&show_icons=true&locale=en&layout=compact" alt="leeshirn" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leeshirn&show_icons=true&locale=en" alt="leeshirn" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leeshirn&" alt="leeshirn" /></p>
