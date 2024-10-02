@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leona Asachi</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
+<h3 align="center">A passionate software developer from Kenya</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leeshirn" alt="leeshirn" /></a> </p>
 
